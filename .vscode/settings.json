@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "stm32h750xx.h": "c",
+        "stm32h7xx.h": "c",
+        "bsp_led.h": "c",
+        "sys_usart.h": "c"
+    }
+}
